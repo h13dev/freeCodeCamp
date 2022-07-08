@@ -1,2 +1,3 @@
 # freeCodeCamp
-Learn to code — for free. Build projects.  Earn certifications.
+
+Learn to code - for free. Build projects.  Earn certifications.
