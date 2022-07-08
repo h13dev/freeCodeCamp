@@ -1,0 +1,13 @@
+{
+    "editor.insertSpaces": false,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "pandoc.htmlOptString": "-s -f gfm -t html5 --css=css/style.css",
+    "cSpell.enableFiletypes": [
+        "!css"
+    ]
+}
